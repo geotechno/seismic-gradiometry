@@ -8,6 +8,6 @@ In the past years considerable effort has been made into installing large seismi
 - Davis, B. (2011). The Basic Theory of Wave Gradiometry. GEOP 523D.
 - Langston, C., & Lang, C. (2009). Wave gradiometry for USArray: Rayleigh waves. Journal of Geophysical Research, vol. 114.
 - Langston, C., & Liang, C. (2008). Gradiometry for polarized seismic waves. Journal of Geophysical Research, vol. 113.
-- Liu, Y., & Holt, W. (27 August 2015 г.). Wave gradiometry and its link to Helmholtz equation solutions applied to USArray in th eeastern U.S. Journal of Geophysical Research: Solid Earth.
-- Maeda, T., Nishida, K., & Obara, K. (2016, October 10). Reconstruction of a 2D seismic wavefield by seismic gradiometry. Progress in Earth and Planetary Science.
+- Liu, Y., & Holt, W. (2015). Wave gradiometry and its link to Helmholtz equation solutions applied to USArray in th eeastern U.S. Journal of Geophysical Research: Solid Earth.
+- Maeda, T., Nishida, K., & Obara, K. (2016). Reconstruction of a 2D seismic wavefield by seismic gradiometry. Progress in Earth and Planetary Science.
 - Wielandt, E. (1993). Propagation and structural interpretation of non-plane waves. Geophys. J. Int., 113.
