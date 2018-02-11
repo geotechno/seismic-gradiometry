@@ -8,7 +8,7 @@ In the past years considerable effort has been made into installing large seismi
 - Langston, C. A. (2007a), Spatial gradient analysis for linear seismic arrays, Bull. Seismol. Soc. Am., 97(1B), 265–280, doi:10.1785/0120060100.
 - Langston, C. A. (2007b), Wave gradiometry in two dimensions, Bull. Seismol. Soc. Am., 97(2), 401– 416, doi:10.1785/0120060138.
 - Langston, C. A. (2007c), Wave gradiometry in the time domain, Bull. Seismol. Soc. Am., 97(3), 926–933, doi:10.1785/0120060152.
-- Langston, C. A., and C. Liang (2008), Gradiometry for polarized seismic waves, J. Geophys. Res., 113, B08305, doi:10.1029/2007JB005486.
-- Langston, C., & Liang, C. (2009). Wave gradiometry for USArray: Rayleigh waves. J. Geophys. Res., 114, B02308, doi:10.1029/2008JB005918.
-- Liu, Y., & Holt, W. (2015). Wave gradiometry and its link to Helmholtz equation solutions applied to USArray in the eastern U.S. J. Geophys. Res., 120, 5717–5746, doi:10.1002/2015JB011982
-- Maeda, T., Nishida, K., & Obara, K. (2016). Reconstruction of a 2D seismic wavefield by seismic gradiometry. Progress in Earth and Planetary Science., doi:10.1186/s40645-016-0107-4
+- Langston, C. A., & C. Liang (2008), Gradiometry for polarized seismic waves, J. Geophys. Res., 113, B08305, doi:10.1029/2007JB005486.
+- Liang, C., & Langston, C. A.(2009). Wave gradiometry for USArray: Rayleigh waves. J. Geophys. Res., 114, B02308, doi:10.1029/2008JB005918.
+- Liu, Y., & Holt, W. (2015). Wave gradiometry and its link to Helmholtz equation solutions applied to USArray in the eastern U.S. J. Geophys. Res., 120, 5717–5746, doi:10.1002/2015JB011982.
+- Maeda, T., Nishida, K., & Obara, K. (2016). Reconstruction of a 2D seismic wavefield by seismic gradiometry. Progress in Earth and Planetary Science., doi:10.1186/s40645-016-0107-4.
